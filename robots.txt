@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apeiron.sg/sitemap.xml
